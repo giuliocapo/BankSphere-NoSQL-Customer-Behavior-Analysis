@@ -72,7 +72,7 @@ This project focuses on the analysis of bank transactions and customer segmentat
    pip install -r requirements.txt
    ```
 3. **Set Up MongoDB**:
-   - Import the dataset into MongoDB collections (`customers` and `transactions`).
+   - Start a LocalHost connection in mongoDB
 4. **Run the Jupyter Notebook**:
    - Open JupyterLab and navigate to the notebook.
    - Execute the cells to perform data analysis.
